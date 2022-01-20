@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">edakitari</string>
+    <string name="e_dakitari">E-dakitari</string>
+    <string name="edakitari_logo">edakitari logo</string>
+    <string name="affordable_healthcare_for_all">Affordable healthcare for all</string>
+    <string name="edakitari_image">Edakitari image</string>
 </resources>

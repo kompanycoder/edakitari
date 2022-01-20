@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.i("Main Activity Logger", "Main activity Ran successfully")
+        Log.i("Main Activity", "Main activity Ran successfully")
     }
 }
