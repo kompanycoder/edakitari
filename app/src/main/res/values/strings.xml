@@ -1,7 +1,15 @@
 <resources>
     <string name="app_name">edakitari</string>
-    <string name="e_dakitari">E-dakitari</string>
+    <string name="edakitari">E-dakitari</string>
     <string name="edakitari_logo">edakitari logo</string>
     <string name="affordable_healthcare_for_all">Affordable healthcare for all</string>
     <string name="edakitari_image">Edakitari image</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="thumb_icon_sign_up">thumb icon sign up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up_icon">Sign up icon</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="email_sign_in">Email Sign In</string>
+    <string name="sign_in_icon">Sign In Icon</string>
+    <string name="textview">TextView</string>
 </resources>

@@ -5,7 +5,18 @@
       <map>
         <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15364583333333334" />
         <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15364583333333334" />
-        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/list_articles.xml" value="0.18" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/list_doctors.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/list_hospitals.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/list_patients.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/list_podcasts.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/list_prescriptions.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/list_services.xml" value="0.22" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/list_transactions.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/sign_up.xml" value="0.18" />
+        <entry key="..\:/Users/kompany_coder/AndroidStudioProjects/edakitari/app/src/main/res/layout/user_profile.xml" value="0.1" />
       </map>
     </option>
   </component>
