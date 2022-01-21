@@ -1,2 +1,2 @@
 # edakitari
-adroid app for emulated doctor services
+android app for emulated doctor services
