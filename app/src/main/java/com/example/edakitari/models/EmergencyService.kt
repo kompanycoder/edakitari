@@ -5,5 +5,5 @@ data class EmergencyService(
     val emergency_code: String,
     val emergency_name: String,
     val emergency_subscribers_count: Int,
-    val emergency_subscribers_array: Array<Object>,
+//    val emergency_subscribers_array: Array<Object>,
 )

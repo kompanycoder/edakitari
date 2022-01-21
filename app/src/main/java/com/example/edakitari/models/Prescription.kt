@@ -5,5 +5,5 @@ data class Prescription(
     val prescription_name: String,
     val prescription_type: String,
     val prescription_subscribers_count: Int,
-    val prescription_subscribers: Array<Object>,
+//    val prescription_subscribers: Array<Object>,
 )
