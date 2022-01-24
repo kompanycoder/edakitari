@@ -1,5 +1,6 @@
 package com.example.edakitari.models
 
+import com.example.edakitari.database.Hospital
 import java.util.*
 
 data class User(
@@ -8,20 +9,24 @@ data class User(
     val dob: Date,
     val email: String,
     val password: String,
-    val date_joined: Date,
-    val country: String,
-    val photo: String,
-    val account_active: Boolean,
     val phone_number: String,
+    val date_joined: Date,
     val city: String,
+    val province: String,
+    val country: String,
+    val user_avatar: String,
+    val account_verified: Boolean,
+    val account_active: Boolean,
+
+
     // nullable arrays
     val services_subscribed: Array<Service>,
     val doctor_appointments: Array<Appointment>,
-//        val location_array: Array<T>,
-//    val articles_liked: Array<T>,
-//    val hospital_array: Array<T>,
-//    val diagnosis_array: Array<T>,
-//    val podcast_array: Array<T>,
+    val location_array: Array<Location>,
+    val articles_liked: Array<Article>,
+    val hospital_array: Array<Hospital>,
+    val diagnosis_array: Array<Diagnosis>,
+    val podcast_array: Array<Podcast>,
     val transaction_array: Array<Transaction>,
     val prescription_array: Array<Prescription>,
     val emergency_services_array: Array<EmergencyService>,
