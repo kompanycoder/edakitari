@@ -17,13 +17,14 @@ data class User(
     val user_avatar: String,
     val account_verified: Boolean,
     val account_active: Boolean,
+    val quarantine_status: Boolean,
 
 
     // nullable arrays
     val services_subscribed: Array<Service>,
     val doctor_appointments: Array<Appointment>,
     val location_array: Array<Location>,
-    val articles_liked: Array<Article>,
+    val articles_read: Array<Article>,
     val hospital_array: Array<Hospital>,
     val diagnosis_array: Array<Diagnosis>,
     val podcast_array: Array<Podcast>,
